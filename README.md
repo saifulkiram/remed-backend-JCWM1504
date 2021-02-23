@@ -12,7 +12,7 @@ Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam men
 ## A. Term & Condition
 - ujian akan dilaksanakan selama 3 jam 20 menit
     - 10 menit untuk *setup*
-    - 4 jam mengerjakan soal
+    - 3 jam mengerjakan soal
     - 10 menit *pull request*
 - selama mengerjakan ujian, siswa wajib **men-share seluruh screen** di **zoom** (khusus untuk kelas online) sampai ujian selesai
 - dilarang bekerjasama dalam mengerjakan soal ujian
