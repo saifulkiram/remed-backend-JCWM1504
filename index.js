@@ -15,4 +15,4 @@ app.get('/', response)
 
 // bind to local machine
 const PORT = process.env.PORT || 2000
-app.listen(PORT, () => `CONNECTED : port ${PORT}`)
+app.listen(PORT, () => console.log(`CONNECTED : port ${PORT}`))
